@@ -1,5 +1,7 @@
 # About Anti-Lock 5000
 
+![Anti-Lock 5000 in action](https://github.com/xlaech/Anti-Lock-5000/blob/master/screenshot.png)
+
 This program ensures, that Windows computers stay awake even, when the battery configuration is set otherwise and can not be changed.
 The program works in a 2 step process:
 - If the system has been idle for more than 60 seconds, the mouse is moved to the top left corner and one click is performed

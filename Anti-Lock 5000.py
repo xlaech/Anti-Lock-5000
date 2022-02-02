@@ -1,4 +1,4 @@
-from ctypes import Structure, windll, c_uint, sizeof, byref, windll
+from ctypes import Structure, windll, c_uint, sizeof, byref
 import time
 import datetime
 

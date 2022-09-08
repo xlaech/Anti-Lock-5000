@@ -11,7 +11,7 @@ The program works in a 2 step process:
 
 The program is written, such that it only uses out-of-the-box python libraries.
 You only need any (even portable) installation of Python.
-The default installation can be preformed without administration rights if you run the installer for the local user (%appdata%).
+The default installation can be performed without administration rights if you run the installer for the local user (%appdata%).
 
 After this just copy the "Anti-Lock 5000.py" file to any location.
 

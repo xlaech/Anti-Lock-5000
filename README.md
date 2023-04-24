@@ -21,3 +21,7 @@ Open the cmd or Powershell in the directory you copied the file (shift+rightclic
 ```bash
 python '.\Anti-Lock 5000.py'
 ```
+# Mac OS
+
+You got the same issue on mac os? Here is someone who did the same thing - just way more advanced:
+https://github.com/bhaller/Jiggler
